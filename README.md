@@ -13,9 +13,6 @@ MATLAB/Simulink-based simulation of 5G C-V2X Vehicle-to-Vehicle (V2V) communicat
 │   ├── MockV2VComm.txt
 │   ├── update_clean_visualization_with_stanley_no_adjacent.txt
 │   ├── create_comprehensive_fcw_analysis.txt
-│   ├── Output Graphs.jpg
-│   ├── Mid simulation implementing lane change.jpg
-│   └── Simulation output end after lane change.jpg
 │
 │── IMA/
 │   ├── IMAController.txt
@@ -29,10 +26,6 @@ MATLAB/Simulink-based simulation of 5G C-V2X Vehicle-to-Vehicle (V2V) communicat
 │   ├── TrafficSignalController.txt
 │   ├── MockV2VComm.txt
 │   ├── IntersectionModel.txt
-│   ├── Output graphs.jpg
-│   ├── Output after simulation ends.jpg
-│   └── Output mid simulation.jpg
-│
 └── docs/
     ├── ArchitectureDiagram.png
     ├── Flowchart_FCW.png
